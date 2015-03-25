@@ -1,35 +1,29 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder.
 
 To get started, simply fork this repo.
 
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
-
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
 
 
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
-
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
 
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/Yaleksandrov/Projects#numbers)
+- [Classic Algorithms](https://github.com/Yaleksandrov/Projects#classic-algorithms)
+- [Graph](https://github.com/Yaleksandrov/Projects#graph)
+- [Data Structures](https://github.com/Yaleksandrov/Projects#data-structures)
+- [Text](https://github.com/Yaleksandrov/Projects#text)
+- [Networking](https://github.com/Yaleksandrov/Projects#networking)
+- [Classes](https://github.com/Yaleksandrov/Projects#classes)
+- [Threading](https://github.com/Yaleksandrov/Projects#threading)
+- [Web](https://github.com/Yaleksandrov/Projects#web)
+- [Files](https://github.com/Yaleksandrov/Projects#files)
+- [Databases](https://github.com/Yaleksandrov/Projects#databases)
+- [Graphics and Multimedia](https://github.com/Yaleksandrov/Projects#graphics-and-multimedia)
+- [Security](https://github.com/Yaleksandrov/Projects#security)
 
 Numbers
 ---------
