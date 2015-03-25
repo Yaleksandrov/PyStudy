@@ -14,14 +14,6 @@ See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/
 
 You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
 
-## Credits
-
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
-
-Problems are motivated by the ones shared at:
-
-* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
-* [Rosetta Code](http://rosettacode.org/)
 
 ## Table of Contents
 
